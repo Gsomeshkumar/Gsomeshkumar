@@ -27,13 +27,11 @@
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,cs,php,ruby,go,rust,kotlin,swift,dart,r,html,css,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,cs,php,ruby,go,rust,kotlin,swift,dart,r,html,css," />
 </p>
-
 ## 🎨 Frontend Development
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,bootstrap,tailwind,sass,jquery,materialui,vite,webpack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,bootstrap," />
 </p>
 
 ## ⚙️ Backend Development
@@ -47,15 +45,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,redis,supabase" />
 </p>
-
-## ☁️ DevOps & Cloud Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,aws,azure,gcp,linux,nginx,githubactions,terraform,ansible" />
-</p>
-
-## 🛠️ Developer Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,postman,figma,notion,npm,pnpm,yarn" />
 </p>
